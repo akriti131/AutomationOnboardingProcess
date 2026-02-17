@@ -1,0 +1,8 @@
+2026-02-17 21:37:10 | INFO | Entering username
+2026-02-17 21:37:10 | INFO | Clicking login button
+2026-02-17 21:37:10 | INFO | Initializing WebDriver
+2026-02-17 21:37:10 | INFO | Using driver: drivers\chromedriver.exe
+2026-02-17 21:37:13 | INFO | Opened URL: https://www.saucedemo.com/
+2026-02-17 21:37:16 | INFO | Initializing WebDriver
+2026-02-17 21:37:16 | INFO | Using driver: drivers\chromedriver.exe
+2026-02-17 21:37:18 | INFO | Opened URL: https://www.saucedemo.com/
